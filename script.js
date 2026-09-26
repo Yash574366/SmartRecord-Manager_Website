@@ -1,6 +1,6 @@
 // Paste the real Microsoft Store URL here later.
 // Example: const STORE_LINK = "https://apps.microsoft.com/detail/...";
-const STORE_LINK = "";
+const STORE_LINK = "https://apps.microsoft.com/detail/9NV98GBDCFDT?hl=en-us&gl=IN&ocid=pdpshare";
 
 document.querySelectorAll("[data-store-link]").forEach((link) => {
   link.addEventListener("click", (event) => {
